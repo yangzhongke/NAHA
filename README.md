@@ -1,5 +1,5 @@
 # NAHA
-NAHA-A python console UI Library that wrapped PyCurse
+NAHA-A python console UI Library that wrapped PyCurses
 
  
 ![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/simple1.png) 
