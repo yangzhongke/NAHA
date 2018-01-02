@@ -1,5 +1,21 @@
 # NAHA
 NAHA-A python console UI Library that wrapped PyCurse
+
+ 
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/simple1.png) 
+
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/msgbox.png)
+
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/confirmbox.png)
+
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/controls1.png)
+ 
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/menu1.png)
+
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/table1.png
+ 
+ 
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/subdialog1.png)
 AForm/AButton/ASingleLineField/AEdit/APasswordField/AFormatEdit/AMaskEdit/AIntegerEdit/ADecimalEdit/ALabel/AMultiLineLabel/ACheckBox/ARadioButton/ARadioGroup/AListBox/AComboBox/ATable/ABizComboBox
  
  
