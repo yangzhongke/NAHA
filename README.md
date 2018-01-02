@@ -9,6 +9,8 @@ NAHA-A python console UI Library that wrapped PyCurse
 ![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/confirmbox.png)
 
 ![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/controls1.png)
+
+![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/controls2.png)
  
 ![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/menu1.png)
 
