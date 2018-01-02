@@ -20,8 +20,7 @@ NAHA-A python console UI Library that wrapped PyCurses
  
  
 '''
-#coding:UTF-8
-import sys
+mport sys
 sys.path.insert(0, '../')
 
 from ACurses import *
@@ -29,13 +28,11 @@ from ACursesEx import *
 
 class Form1(AForm):    
     def __init__(self):                        
-        AForm.__init__(self, 20, 5, 10, 35)
-        
+        AForm.__init__(self, 20, 5, 10, 35)       
         btn1 = AButton(0,0,10)
         btn1.settext("msgbox")
         btn1.onclick=self.btn1Click     
-        self.add(btn1)
-        
+        self.add(btn1)       
         btn2 = AButton(15,0,10)
         btn2.settext("confirm")
         btn2.onclick=self.btn2Click     
@@ -47,8 +44,9 @@ class Form1(AForm):
         if(isOk):
             msgbox("rupeng.com")
         else:
-            msgbox("github.com")
-        
+            msgbox("github.com")       
+            
+
 initapp()
 try: 
     form = Form1()
