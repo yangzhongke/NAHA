@@ -20,7 +20,7 @@ NAHA-A python console UI Library that wrapped PyCurses
  
  
 '''
-mport sys
+import sys
 sys.path.insert(0, '../')
 
 from ACurses import *
