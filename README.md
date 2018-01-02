@@ -27,7 +27,7 @@ AForm/AButton/ASingleLineField/AEdit/APasswordField/AFormatEdit/AMaskEdit/AInteg
 # 此开发包由如鹏网杨中科老师开发，学中国最牛逼的Python课程，到[如鹏网](http://www.rupeng.com)！
 
 Email:yzk365@qq.com
-
-WeChat:yzk369
+ 
+微信:yzk369
 
 QQ:1393695730
