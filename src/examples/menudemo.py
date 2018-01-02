@@ -8,7 +8,7 @@ from Menu import *
 
 class MenuDemoForm(AForm):    
     def __init__(self):     
-        AForm.__init__(self, 20, 5, 10, 35)	
+        AForm.__init__(self,  0, 3, 69, 100)
         menu = AMenu(0,0,50)
         filemi = AMenuItem("File")
         filemi.additem(AMenuItem("Open",self.showinfo))

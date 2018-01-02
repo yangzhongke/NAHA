@@ -23,7 +23,7 @@ class InfoForm(ACurses.AForm):
         self.registerkeyevent(" ", lambda:self.destroy())
         
         btn = ACurses.AButton(13,7,7)
-        btn.settext("确定")
+        btn.settext("OK")
         btn.onclick = lambda:self.destroy()
        
         #在牡丹终端上发现当x坐标为0 的时候会显示乱码，目前没有找到根本原因，先这么解决
@@ -37,12 +37,12 @@ class ConfirmForm(ACurses.AForm):
         ACurses.AForm.__init__(self, 5,5,10, 35)
         self.isconfirm=False
   
-        btnyes = ACurses.AButton(5,7,5)
-        btnyes.settext("是")
+        btnyes = ACurses.AButton(5,7,6)
+        btnyes.settext("Yes")
         btnyes.onclick = self.confirm
         
-        btnno = ACurses.AButton(15,7,5)
-        btnno.settext("否")
+        btnno = ACurses.AButton(15,7,6)
+        btnno.settext("No")
         btnno.onclick = self.deny
        
         #在牡丹终端上发现当x坐标为0 的时候会显示乱码，目前没有找到根本原因，先这么解决
