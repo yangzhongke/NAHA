@@ -18,8 +18,7 @@ NAHA-A python console UI Library that wrapped PyCurses
  
 ![image](https://raw.githubusercontent.com/yangzhongke/NAHA/master/doc/subdialog1.png) 
  
- 
-'''
+```
 import sys
 sys.path.insert(0, '../')
 
@@ -55,7 +54,7 @@ try:
 finally:
     endapp()        
 
- '''
+```
 
 
 All Controls:
